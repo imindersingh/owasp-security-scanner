@@ -1,0 +1,10 @@
+# editors
+.idea
+.DS_Store
+
+# reports
+reports/
+
+# swagger
+swagger.yml
+swagger.json
